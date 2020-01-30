@@ -8,6 +8,8 @@ requirements : termux
 
 
 >
-git clone https://github.com/LiNuX-Mallu/java4-Termux
-chmod +x javasetup.py
-python javasetup.py
+$ git clone https://github.com/LiNuX-Mallu/java4-Termux
+
+$ chmod +x javasetup.py
+
+$ python javasetup.py
