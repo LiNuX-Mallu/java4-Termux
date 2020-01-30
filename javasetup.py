@@ -31,5 +31,6 @@ print(""""\033[1;40;31m
      before using java required tool or java tools
      first run '  javalogin  ' then you can run
      > java , keytool etc... """)
-os.system("cd")
+input("enter to exit")
+exit()
 
